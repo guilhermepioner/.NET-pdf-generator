@@ -1,0 +1,4 @@
+# Ignore Riders files
+pdfGenerator/*/bin
+pdfGenerator/*/obj
+pdfGenerator/.idea
