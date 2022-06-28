@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdfGenerator", "pdfGenerator\pdfGenerator.csproj", "{FC524F4F-4C1D-4AEF-B345-DA33ECA5D7C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdfGenerator.Api", "pdfGenerator.Api\pdfGenerator.Api.csproj", "{FC524F4F-4C1D-4AEF-B345-DA33ECA5D7C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
