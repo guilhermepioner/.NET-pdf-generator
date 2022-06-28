@@ -1,4 +1,11 @@
-# Ignore Riders files
 pdfGenerator/*/bin
 pdfGenerator/*/obj
-pdfGenerator/.idea
+
+# Ignore JetBrains Riders files
+*/.idea
+*.sln.iml
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
